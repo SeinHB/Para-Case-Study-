@@ -2,7 +2,7 @@
 
 > A full financial platform designed for Turkey's 14–26 cohort — from scratch.
 
-![Para Case Study Cover](assets/cover.png)
+![Para Case Study Cover](Assets/cover.png)
 
 [![Live Case Study](https://img.shields.io/badge/Live_Case_Study-View_Online-5b21b6?style=for-the-badge)](https://seinhb.github.io/Para-Case-Study-/)
 [![Interactive Prototype](https://img.shields.io/badge/Interactive_Prototype-Open-d62452?style=for-the-badge)](https://claude.ai/artifact/7URLMQ97zC2rRMX9wkFAyq)
@@ -80,7 +80,7 @@ The Para design system is built on a neumorphic foundation — all surfaces shar
 
 | | |
 |---|---|
-| ![Overview](assets/mockup-overview.png) | ![Screens](assets/mockup-screens.png) |
+| ![Overview](Assets/mockup-overview.png) | ![Screens](Assets/mockup-screens.png) |
 
 ---
 
